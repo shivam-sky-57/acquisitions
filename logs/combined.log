@@ -1,0 +1,4 @@
+{"level":"info","message":"Hello from Acquistions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [10/Sep/2026:07:02:23 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.136.2 Chrome/148.0.7778.280 Electron/42.10.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquistions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [10/Sep/2026:07:23:27 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
